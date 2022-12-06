@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Ewerton\Estudos\Informatica\Visual Studio\C++\Template\x64\Debug\Template.exe
+C:\Users\User\Desktop\Ewerton\Estudos\Informatica\Visual Studio\C++\JogoPong\x64\Debug\Template.exe
+D:\Unity\Visual Studio\JogoPong\x64\Debug\Template.exe

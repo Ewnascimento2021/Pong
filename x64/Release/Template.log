@@ -1,0 +1,29 @@
+﻿  Ball.cpp
+  main.cpp
+D:\Unity\Visual Studio\JogoPong\Physics.h(23,2): warning C4091: 'static ': ignorado à esquerda de 'Physics' quando nenhuma variável é declarada
+D:\Unity\Visual Studio\JogoPong\main.cpp(26,32): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  PlayerBar.cpp
+Ball.obj : error LNK2001: símbolo externo não resolvido SDL_RenderFillRect
+main.obj : error LNK2001: símbolo externo não resolvido SDL_RenderClear
+main.obj : error LNK2001: símbolo externo não resolvido SDL_DestroyRenderer
+main.obj : error LNK2001: símbolo externo não resolvido SDL_Init
+main.obj : error LNK2001: símbolo externo não resolvido SDL_DestroyWindow
+main.obj : error LNK2001: símbolo externo não resolvido SDL_GetError
+main.obj : error LNK2001: símbolo externo não resolvido SDL_Quit
+main.obj : error LNK2001: símbolo externo não resolvido SDL_Delay
+main.obj : error LNK2001: símbolo externo não resolvido TTF_Init
+main.obj : error LNK2001: símbolo externo não resolvido TTF_RenderText_Solid
+main.obj : error LNK2001: símbolo externo não resolvido SDL_HasIntersection
+main.obj : error LNK2001: símbolo externo não resolvido TTF_CloseFont
+main.obj : error LNK2001: símbolo externo não resolvido TTF_OpenFont
+main.obj : error LNK2001: símbolo externo não resolvido SDL_PollEvent
+main.obj : error LNK2001: símbolo externo não resolvido SDL_GetTicks
+main.obj : error LNK2001: símbolo externo não resolvido SDL_RenderCopyEx
+main.obj : error LNK2001: símbolo externo não resolvido SDL_CreateRenderer
+main.obj : error LNK2001: símbolo externo não resolvido SDL_RenderPresent
+main.obj : error LNK2001: símbolo externo não resolvido SDL_CreateWindow
+main.obj : error LNK2001: símbolo externo não resolvido TTF_Quit
+main.obj : error LNK2001: símbolo externo não resolvido SDL_SetRenderDrawColor
+main.obj : error LNK2001: símbolo externo não resolvido SDL_CreateTextureFromSurface
+MSVCRT.lib(exe_main.obj) : error LNK2001: símbolo externo não resolvido main
+D:\Unity\Visual Studio\JogoPong\x64\Release\Template.exe : fatal error LNK1120: 23 externo não resolvidos
